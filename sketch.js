@@ -13,6 +13,6 @@ function draw() {
   // ellipse
   fill(255);
   noStroke();
-  ellipse(mouseX, mouseY, 64, 64)
+  ellipse(mouseX, mouseY, 300, 300)
 
 }
