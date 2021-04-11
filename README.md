@@ -1,2 +1,2 @@
-# projects
-This is a repository to publish my portfolio projects
+# website-proto
+This is a prototype to test my portfolio website
